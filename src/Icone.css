@@ -6,7 +6,7 @@
     text-align: center;
     justify-content: space-around;
 }
-.box{
+.icone{
     border-radius: 10px;
     margin: 5px;
     background-color: #ffffff;
@@ -28,6 +28,6 @@ img{
     height: 90px;
     border-radius: 50%;
 }
-.box:hover{
+.icone:hover{
     background-color: #cecece; 
 }
