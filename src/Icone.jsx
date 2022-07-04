@@ -3,7 +3,7 @@ function Icone(){
   return(
     <div className='container'>
         
-      <div className='box'>
+      <div className='icone'>
         
         <div className='img'>
           <img src="https://portal.ifba.edu.br/eunapolis/imagens-campus-eunapolis/icone-suap.jpg/@@images/936f39f8-14ec-4861-9f1f-35de0ec4fa29.jpeg"/>
@@ -11,7 +11,7 @@ function Icone(){
         Início
 
       </div>
-      <div className='box'>
+      <div className='icone'>
       <div className='img'>
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1zRaB-sN4xL75VeNwivt
           StT0rRKyZBauobQ&usqp=CAU"/>
@@ -19,13 +19,13 @@ function Icone(){
         globo.com 
 
       </div>
-      <div className='box'>
+      <div className='icone'>
       <div className='img'>
           <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/facebook_logo_icon_147291.png"/>
         </div>
         Facebook
       </div>
-      <div className='box'>
+      <div className='icone'>
       <div className='img'>
           <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANQAAADuCAMAAAB24dnhAAAAflBMVEX/
           //8AAAD39/fDw8Pm5uaUlJR/f3+Xl5eamprX19exsbHKysqsrKxjY2NSUlK0tLQsLCyFhYVaWlp0dHQfHx/u7u
@@ -101,7 +101,7 @@ function Icone(){
         </div>
         Home
       </div>
-      <div className='box'>
+      <div className='icone'>
         <div className='img'>
             <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAC0CAMAAAAKE/YAAAABBVB
             MVEX///8AnUz+///kJigAnkr7//////3o//YHmkwAnkwWkVIKmFD1//vx//r4//4EnE/b//Kj4MFSnnqo7s
@@ -163,7 +163,7 @@ function Icone(){
         </div>
         Mirim 
       </div>
-      <div className='box'>
+      <div className='icone'>
         <div className='img'>
         <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAC0CAMAAAAKE/YAAAABBVB
             MVEX///8AnUz+///kJigAnkr7//////3o//YHmkwAnkwWkVIKmFD1//vx//r4//4EnE/b//Kj4MFSnnqo7s
@@ -225,19 +225,19 @@ function Icone(){
         </div>
         AVA
       </div>
-      <div className='box'>
+      <div className='icone'>
         <div className='img'>
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgK-tHxQJjR-nhS_Il1Izzcs7VIiNI1V47_Q&usqp=CAU"  />
         </div>
         SEI/IFRO
       </div>
-      <div className='box'>
+      <div className='icone'>
         <div className='img'>
           <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png"  />
         </div>
         E
       </div>  
-      <div className='box'>
+      <div className='icone'>
         <div className='img'>
             <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAC0CAMAAAAKE/YAAAABBVB
             MVEX///8AnUz+///kJigAnkr7//////3o//YHmkwAnkwWkVIKmFD1//vx//r4//4EnE/b//Kj4MFSnnqo7s
@@ -299,7 +299,7 @@ function Icone(){
         </div>
         Mirim 
       </div>
-      <div className='box'>
+      <div className='icone'>
         <div className='img'>
           <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAG1BMVE
           X///8AAAD7+/s6Ojrl5eXp6ekpKSn29vYLCwuFTm17AAABCklEQVR4nO3dQY7CMBAAQTYJgf+/eO9kTxbB26Hq
